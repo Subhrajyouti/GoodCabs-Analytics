@@ -26,6 +26,24 @@
             "name": "GoodCabs",
             "database": "GoodCabs",
             "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "goodcabs_analytics",
+            "database": "goodcabs_analytics",
+            "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "rpc",
+            "database": "rpc",
+            "username": "postgres"
         }
     ]
 }
