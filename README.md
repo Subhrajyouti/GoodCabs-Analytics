@@ -197,7 +197,7 @@ The Power BI dashboard provides an interactive and self-explanatory view of Good
 
 # **📂 Project Files**  
 
-📊 **Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNmEyZDcwYzMtNmI3NS00YmU1LTllZGMtMzNjMzM4MDU3NjkzIiwidCI6IjdjOTE3YzNkLTRhNTAtNDA5Mi1hNzdiLTE3MTM4OGJiNmY5NCJ9&pageName=585fd9ca8c72c33d09d8** → Power BI File  
+📊 **Live Dashboard Link - https://lnkd.in/gubRdJCr
 📁 **GitHub Link - https://github.com/Subhrajyouti/GoodCabs-Analytics** → All SQL scripts  
 
 
